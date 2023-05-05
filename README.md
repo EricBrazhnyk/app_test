@@ -21,6 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-eASY CLAP BOYZ
+* eASY CLAP BOYZ
 
-homo
+* homo
